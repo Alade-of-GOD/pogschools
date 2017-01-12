@@ -1,0 +1,18 @@
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\bin\Debug\PoG School Intl.exe.config
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\bin\Debug\PoG School Intl.exe
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\bin\Debug\PoG School Intl.pdb
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\obj\Debug\PoG_School_Intl.Form1.resources
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\obj\Debug\PoG_School_Intl.Properties.Resources.resources
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\obj\Debug\PoG School Intl.csproj.GenerateResource.Cache
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\obj\Debug\PoG School Intl.exe
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\obj\Debug\PoG School Intl.pdb
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\bin\Debug\Interop.XtremeSuiteControls.dll
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\bin\Debug\AxInterop.XtremeSuiteControls.dll
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\obj\Debug\Interop.XtremeSuiteControls.dll
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\obj\Debug\AxInterop.XtremeSuiteControls.dll
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\obj\Debug\PoG School Intl.csproj.ResolveComReference.cache
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\obj\Debug\PoG_School_Intl.LoginDialog.resources
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\obj\Debug\PoG School Intl.csprojResolveAssemblyReference.cache
+C:\Users\Micheal\Visual Studio Projects\PoG School Intl\PoG School Intl\obj\Debug\PoG_School_Intl.SetUp.resources
